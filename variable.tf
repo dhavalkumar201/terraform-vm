@@ -4,7 +4,7 @@ variable "location" {
 }
 variable "resource_group_name" {
   type    = string
-  default = "sa1_test_eic_ShivModi"
+  default = "sa1_test_eic_DhavalVaghela"
 }
 variable "vnet" {
   type    = list(string)
