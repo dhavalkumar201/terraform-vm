@@ -1,1 +1,7 @@
-.terraform/**
+**/.idea/
+**/.terraform/
+**/.terraform.lock.hcl
+**/.pfx
+**/.key
+**/.pem
+**/.csr
